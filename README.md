@@ -1,7 +1,7 @@
 # DataStructure
 在這裡記錄自己學習資料結構的一些程式碼
 
-基礎
+基礎  
 quene,stack,遞迴的運用,
 
 linked-list,hashMap
